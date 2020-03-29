@@ -2,4 +2,5 @@
 
 ## Docker
 Using Docker because of future TensorFlow usage and python `3.5` distributables.
-To start container simply run ```./docker_run.sh```
+
+To start container simply run ```./docker_run.sh```.
